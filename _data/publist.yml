@@ -1,6 +1,6 @@
 - title: "Probing Inhomogeneous Cuprate Superconductivity by Terahertz Josephson Echo Spectroscopy"
   image: MDTS.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
+  description: The superconducting gap in high-Tc cuprates is known to exhibit spatial inhomogeneity. It is unknown however, how disorder of the superconducting gap translates to disorder of the superconducting phase. To address this question we developed 2-D terahertz spectroscopy in a non-collinear geometry for the first time, allowing us to study bulk, single-crystal LSCO. The interlayer Josephson plasma resonance is observed with a 
   authors: A Liu, D Pavicevic, MH Michael, AG Salvador, PE Dolgirev, M Fechner, AS Disa, PM Lozano, Q Li, GD Gu, E Demler, and A Cavalleri
   link:
     url: https://arxiv.org/abs/2308.14849
@@ -9,7 +9,7 @@
   
 - title: "Simultaneous Existence of Confined and Delocalized Vibrational Modes in Colloidal Quantum Dots"
   image: 2019_JPCLGraphic.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
+  description: The spectral density of exciton-phonon coupling is a quantity that is difficult to measure directly. We apply 2-D spectroscopy at cryogenic temperatures to resolve the spectral density in CdSe colloidal quantum dots, which in turn reveals confined vibrational modes from the nanometer-size dot geometry.
   authors: A Liu, DB Almeida, W-K Bae, LA Padilha, and ST Cundiff.
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jpclett.9b02474
@@ -19,7 +19,7 @@
 
 - title: "Non-Markovian Exciton-Phonon Interactions in Core-Shell Colloidal Quantum Dots at Femtosecond Timescales"
   image: 2019_PRLGraphic.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
+  description: Placeholder.
   authors: A Liu, DB Almeida, W-K Bae, LA Padilha, and ST Cundiff
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.057403
