@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "MPQM Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "MPQM Lab at Brookhaven National Laboratory."
 sitemap: false
 permalink: /
 ---
