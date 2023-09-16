@@ -20,7 +20,8 @@ Here are some techniques and themes that we currently work on:
 
 
 <p align="justify">
-**Technique: Multidimensional optical spectroscopy.** ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/2019_JPCLGraphic.png){: style="width: 250px; float: right; margin: 0px 10px"} Multidimensional optical spectroscopy may be considered the most general nonlinear spectroscopic technique, which involves exciting a material with multiple ultrashort pulses of light and measuring a nonlinear observable. Compared to most nonlinear spectroscopies, which measure a projection or cross-section of a multidimensional optical response, multidimensional optical spectroscopy is capable of measuring nonlinear optical responses along all of their characteristic axes.
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/2019_JPCLGraphic.png){: style="width: 250px; float: right; margin: 0px 10px"}
+**Technique: Multidimensional optical spectroscopy.** Multidimensional optical spectroscopy may be considered the most general nonlinear spectroscopic technique, which involves exciting a material with multiple ultrashort pulses of light and measuring a nonlinear observable. Compared to most nonlinear spectroscopies, which measure a projection or cross-section of a multidimensional optical response, multidimensional optical spectroscopy is capable of measuring nonlinear optical responses along all of their characteristic axes.
 </p>
 
 <p align="justify">
@@ -28,7 +29,8 @@ Here are some techniques and themes that we currently work on:
 </p>
 
 <p align="justify">
-**Technique: Multidimensional terahertz spectroscopy.** ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/MDTS.png){: style="width: 250px; float: left; margin: 0px  10px"} One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/MDTS.png){: style="width: 250px; float: left; margin: 0px  10px"}
+**Technique: Multidimensional terahertz spectroscopy.** One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
 </p>
 
 <p align="justify">
