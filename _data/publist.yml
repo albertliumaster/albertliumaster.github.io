@@ -7,6 +7,34 @@
     display: arXiV (2023)
   highlight: 1
   
+- title: "Multidimensional Coherent Spectroscopy Reveals Triplet State Coherences in Cesium Lead-Halide Perovsite Nanocrystals"
+  image: 2019_JPCLGraphic.png
+  description: The spectral density of exciton-phonon coupling is a quantity that is difficult to measure directly. We apply 2-D spectroscopy at cryogenic temperatures to resolve the spectral density in CdSe colloidal quantum dots, which in turn reveals confined vibrational modes from the nanometer-size dot geometry.
+  authors: A Liu, DB Almeida, LG Bonato, G Nagamine, LF Zagonel, AF Nogueira, LA Padilha, and ST Cundiff.
+  link:
+    url: http://doi.org/10.1126/sciadv.abb3594
+    display: Science Advances 7, 1 (2019)
+  highlight: 1
+  news2: See coverage by [phys.org](https://phys.org/news/2021-01-multidimensional-coherent-spectroscopy-reveals-triplet.html?fbclid=IwAR2d7H-SxuvMSDqH5DpiPX_kRm_UYtu-0ETqfoR053RyB46lAwHCIbYE2j8)
+  
+- title: "Spectroscopic Signatures of Electron-Phonon Coupling in Silicon-Vacancy Centers in Diamond"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu and ST Cundiff.
+  link:
+    url: https://doi.org/10.1103/PhysRevMaterials.4.055202
+    display: Physical Review Materials 4, 5 (2020)
+  highlight: 0
+  
+- title: "Communication: Effect of Dimensionality on the Optical Absorption Properties of CsPbI3 Perovskite Nanocrystals"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu, LG Bonato, F Sessa, DB Almeida, E Isele, G Nagamine, LF Zagonel, AF Nogueira, LA Padilha, and ST Cundiff.
+  link:
+    url: https://doi.org/10.1063/1.5124399
+    display: Journal of Chemical Physics 151, 19 (2019)
+  highlight: 0
+  
 - title: "Simultaneous Existence of Confined and Delocalized Vibrational Modes in Colloidal Quantum Dots"
   image: 2019_JPCLGraphic.png
   description: The spectral density of exciton-phonon coupling is a quantity that is difficult to measure directly. We apply 2-D spectroscopy at cryogenic temperatures to resolve the spectral density in CdSe colloidal quantum dots, which in turn reveals confined vibrational modes from the nanometer-size dot geometry.
