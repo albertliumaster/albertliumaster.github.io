@@ -6,6 +6,60 @@
     url: https://arxiv.org/abs/2308.14849
     display: arXiV (2023)
   highlight: 1
+
+- title: "Measuring exciton-phonon coupling in semiconductor nanocrystals"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu, DB Almeida, LA Padilha, and ST Cundiff.
+  link:
+    url: https://doi.org/10.1088/2516-1075/acde2a
+    display: Electronic Structure 5, 3 (2022)
+  highlight: 0
+  
+- title: "Photo-Induced High-Temperature Ferromagnetism in YTiO3"
+  image: MDTS.png
+  description: The superconducting gap in high-Tc cuprates is known to exhibit spatial inhomogeneity. It is unknown however, how disorder of the superconducting gap translates to disorder of the superconducting phase. To address this question we developed 2-D terahertz spectroscopy in a non-collinear geometry for the first time, allowing us to study interlayer tunneling nonlinearities in single-crystal LSCO.
+  authors: AS Disa, J Curtis, M Fechner, A Liu, A von Hoegen, M Forst, TF Nova, P Narang, A Maljuk, AV Boris, B Keimer, and A Cavalleri
+  link:
+    url: https://arxiv.org/abs/2308.14849
+    display: Nature 617, 7959 (2023)
+  highlight: 1
+  
+- title: "Perspective: Multi-Dimensional Coherent Spectroscopy of Perovskite Nanocrystals"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu, DB Almeida, LA Padilha, and ST Cundiff.
+  link:
+    url: https://doi.org/10.1088/2515-7639/ac4fa5
+    display: JPhys Materials 5, 2 (2022)
+  highlight: 0
+  
+- title: "Measuring Exciton Fine-Structure in Randomly Oriented Perovskite Nanocrystal Ensembles Using Nonlinear Optical Spectroscopy: Theory"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu.
+  link:
+    url: https://doi.org/10.3390/nano12050801
+    display: Nanomaterials 12, 5 (2022)
+  highlight: 0
+  
+- title: "Towards Engineering Intrinsic Linewidths and Line-Broadening in Perovskite Nanoplatelets"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu, G Nagamine, LG Bonato, DB Almeida, LF Zagonel, AF Nogueira, LA Padilha, and ST Cundiff.
+  link:
+    url: https://doi.org/10.1088/2633-4356/abf330
+    display: ACS Nano 15, 4 (2021)
+  highlight: 1
+  
+- title: "Spectral Broadening and Ultrafast Dynamics of a Nitrogen-Vacancy Center Ensemble in Diamond"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu, ST Cundiff, DB Almeida, and R Ulbricht.
+  link:
+    url: https://doi.org/10.1088/2633-4356/abf330
+    display: Materials for Quantum Technology 1, 2 (2021)
+  highlight: 0
   
 - title: "Multidimensional Coherent Spectroscopy Reveals Triplet State Coherences in Cesium Lead-Halide Perovsite Nanocrystals"
   image: 2019_JPCLGraphic.png
@@ -13,7 +67,7 @@
   authors: A Liu, DB Almeida, LG Bonato, G Nagamine, LF Zagonel, AF Nogueira, LA Padilha, and ST Cundiff.
   link:
     url: http://doi.org/10.1126/sciadv.abb3594
-    display: Science Advances 7, 1 (2019)
+    display: Science Advances 7, 1 (2021)
   highlight: 1
   news2: See coverage by [phys.org](https://phys.org/news/2021-01-multidimensional-coherent-spectroscopy-reveals-triplet.html?fbclid=IwAR2d7H-SxuvMSDqH5DpiPX_kRm_UYtu-0ETqfoR053RyB46lAwHCIbYE2j8)
   
