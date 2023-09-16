@@ -28,6 +28,7 @@ International applicants in particular can consider the following funding opport
 <li>Taiwan: <a href="https://www.nstc.gov.tw/sci/ch/list/6b4a4661-9126-4d0c-897a-4022c82114a9">NSTC Fellowships</a></li>
 <li>Germany: <a href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship">Feodor Lynen Fellowships</a> (As a member of the Humboldt Network, Dr. Liu is entitled to host German Feodor Lynen Fellows.)</li>
 <li>Switzerland: <a href="https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility">SNSF Fellowships</li>
+<li>Korea: <a href="https://www.fulbright.or.kr/en/grant/postdoc/">Fulbright Korea Fellowships</a></li>
 </ul>
 
 Outstanding candidates can also apply for the [Goldhaber fellowship](https://www.bnl.gov/hr/goldhaber/) at BNL.
