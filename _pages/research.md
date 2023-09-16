@@ -25,7 +25,7 @@ Here are some techniques and themes that we currently work on:
 </p>
 
 <p align="justify">
-**Theme: Artificial atoms.** For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+**Theme: Artificial atoms.** The Bohr model of the atom introduced the concept of discrete electronic energy levels. Today, we can replicate these discrete excitation spectra in solid-state materials for technological applications. Defect vacancy centers and colloidal nanocrystals are examples of such "artificial atoms" that we have studied using multidimensional spectroscopy [1,2,3,4].
 </p>
 
 <p align="justify">
