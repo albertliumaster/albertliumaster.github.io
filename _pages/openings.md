@@ -8,11 +8,14 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We are currently hiring for postdoctoral researchers to develop multi-dimensional spectroscopies in the terahertz to mid-infrared frequency range.**
 
-We are  looking for new group members with passion, talent, and grit!
+<p align="justify">
+We are seeking outstanding candidates for an experimental postdoctoral position in the Condensed Matter Physics and Materials Science Division at Brookhaven National Laboratory (BNL). The successful candidate will focus on developing and performing ultrafast optical spectroscopies of quantum materials, primarily so-called ‘multi-dimensional spectroscopies’ in the terahertz to mid-infrared frequency range. Studies of interest include strongly correlated electron systems, topological materials, and low-dimensional nanostructures, both in equilibrium and in light-induced non-equilibrium states. Access to extensive user facilities at BNL will be available, including the adjacent Center for Functional Nanomaterials. 
+</p>
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+Starting date is flexible, optimally in early-mid 2024.
+
 
 ### Past open positions
 
