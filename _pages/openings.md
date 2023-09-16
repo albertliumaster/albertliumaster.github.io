@@ -14,7 +14,7 @@ permalink: /vacancies
 We are seeking outstanding candidates for an experimental postdoctoral position in the Condensed Matter Physics and Materials Science Division at Brookhaven National Laboratory (BNL). The successful candidate will focus on developing and performing ultrafast optical spectroscopies of quantum materials, primarily so-called ‘multi-dimensional spectroscopies’ in the terahertz to mid-infrared frequency range. Studies of interest include strongly correlated electron systems, topological materials, and low-dimensional nanostructures, both in equilibrium and in light-induced non-equilibrium states. Access to extensive user facilities at BNL will be available, including the adjacent Center for Functional Nanomaterials. 
 </p>
 
-Starting date is flexible, optimally in early-mid 2024.
+Starting date is flexible, and applications will be reviewed until position is filled.
 
 [Flyer]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
 
