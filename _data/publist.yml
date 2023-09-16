@@ -18,7 +18,7 @@
   
 - title: "Photo-Induced High-Temperature Ferromagnetism in YTiO3"
   image: MDTS.png
-  description: The superconducting gap in high-Tc cuprates is known to exhibit spatial inhomogeneity. It is unknown however, how disorder of the superconducting gap translates to disorder of the superconducting phase. To address this question we developed 2-D terahertz spectroscopy in a non-collinear geometry for the first time, allowing us to study interlayer tunneling nonlinearities in single-crystal LSCO.
+  description: YTiO3 is a low-temperature ferromagnet in which orbital fluctuations lowers the Curie temperature. We used a strong-field terahertz light field to selectively excite a vibrational mode that in turn suppresses these fluctuations and raises the Curie temperature threefold.
   authors: AS Disa, J Curtis, M Fechner, A Liu, A von Hoegen, M Forst, TF Nova, P Narang, A Maljuk, AV Boris, B Keimer, and A Cavalleri
   link:
     url: https://arxiv.org/abs/2308.14849
@@ -45,7 +45,7 @@
   
 - title: "Towards Engineering Intrinsic Linewidths and Line-Broadening in Perovskite Nanoplatelets"
   image: 2019_JPCLGraphic.png
-  description: Placeholder.
+  description: Colloidal nanoplatelets are often claimed to be homogeneously broadened due to the dominant out-of-plane quantum confinement. To validate this claim we use 2-D spectroscopy to simultaneously resolve homogeneous and inhomogeneous exciton linewidths in CsPbI3 perovskite nanoplatelets. These linewidths are resolved as a function of temperature, excitation power, and exciton resonance energy to provide design criteria for engineering optoelectronic properties for applications.
   authors: A Liu, G Nagamine, LG Bonato, DB Almeida, LF Zagonel, AF Nogueira, LA Padilha, and ST Cundiff.
   link:
     url: https://doi.org/10.1088/2633-4356/abf330
@@ -63,7 +63,7 @@
   
 - title: "Multidimensional Coherent Spectroscopy Reveals Triplet State Coherences in Cesium Lead-Halide Perovsite Nanocrystals"
   image: 2019_JPCLGraphic.png
-  description: The spectral density of exciton-phonon coupling is a quantity that is difficult to measure directly. We apply 2-D spectroscopy at cryogenic temperatures to resolve the spectral density in CdSe colloidal quantum dots, which in turn reveals confined vibrational modes from the nanometer-size dot geometry.
+  description: The exciton manifold in lead-halide perovskite nanocrystals is claimed to host "bright-triplet" excitons that contribute to their remarkable luminescence efficiencies. However, signatures of these bright-triplet excitons are normally obscured by dominant inhomogeneous broadening. To circumvent this issue, we use polarization-resolved 2-D spectroscopy to extract the intrinsic exciton lineshape in an ensemble and find evidence of an interleaved "partially-bright" exciton manifold. 
   authors: A Liu, DB Almeida, LG Bonato, G Nagamine, LF Zagonel, AF Nogueira, LA Padilha, and ST Cundiff.
   link:
     url: http://doi.org/10.1126/sciadv.abb3594
@@ -106,7 +106,7 @@
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.057403
     display: Physical Review Letters 123, 5 (2019)
-  highlight: 1
+  highlight: 0
 
 - title: High Resolution Nonlinear Optical Spectroscopy of InGaN Quantum Dots in GaN Nanowires
   authors:
