@@ -50,7 +50,9 @@ permalink: /
 </div>
 
 
-We are an experimental research group in the [Condensed Matter Physics and Materials Science Department]([http://www.physics.leidenuniv.nl](https://www.bnl.gov/cmpmsd/)) at [Brookhaven National Lab](https://www.bnl.gov/world/). We have the broad scientific goal of using light to both <b>interrogate</b> as well as <b>engineer</b> properties of quantum matter, ranging from materials with strong electronic correlations to nanoscale objects subject to quantum confinement. To this end, we utilize light sources across the electromagnetic spectrum (terahertz - ultraviolet) to implement optical "pumps" and advanced spectroscopies. A specialty of our lab is multidimensional coherent spectroscopy, an optical analogue of nuclear magnetic resonance (see [Research](research)). 
+We are an experimental research group in the [Condensed Matter Physics and Materials Science Department]([http://www.physics.leidenuniv.nl](https://www.bnl.gov/cmpmsd/)) at [Brookhaven National Lab](https://www.bnl.gov/world/). We have the broad scientific goal of using light to both <b>interrogate</b> as well as <b>engineer</b> properties of quantum matter, ranging from materials with strong electronic correlations to nanoscale objects subject to quantum confinement. 
+
+To this end, we utilize light sources across the electromagnetic spectrum (terahertz - ultraviolet) to implement optical "pumps" and advanced spectroscopies. A specialty of our lab is <b>multidimensional coherent spectroscopy</b>, an optical analogue of nuclear magnetic resonance (see [Research](research)). 
 
  **We are  looking for motivated Postdocs to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
