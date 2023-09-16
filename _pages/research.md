@@ -20,7 +20,7 @@ Here are some techniques and themes that we currently work on:
 
 
 <p align="justify">
-**Technique: Multidimensional optical spectroscopy.** ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/2019_JPCLGraphic.png){: style="width: 250px; float: right; margin: 0px 10px"} We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+**Technique: Multidimensional optical spectroscopy.** ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/2019_JPCLGraphic.png){: style="width: 250px; float: right; margin: 0px 10px"} Multidimensional optical spectroscopy may be considered the most general nonlinear spectroscopic technique, which involves exciting a material with multiple ultrashort pulses of light and measuring a nonlinear observable. Compared to most nonlinear spectroscopies, which measure a projection or cross-section of a multidimensional optical response, multidimensional optical spectroscopy is capable of measuring nonlinear optical responses along all of their characteristic axes.
 </p>
 
 <p align="justify">
