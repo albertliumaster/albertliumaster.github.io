@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "NOoQM Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -23,7 +23,12 @@ You find the past job openings here:
 [Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
 [Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+### Fellowships
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+We especially welcome postdocs with fellowships, and would be happy to support you in applying both before and after joining our group. International applicants in particular can consider the following funding opportunities:
+Japan: [JSPS Fellowships](https://www.jsps.go.jp/j-pd/)
+Taiwan: NSTC Fellowships (https://www.nstc.gov.tw/sci/ch/list/6b4a4661-9126-4d0c-897a-4022c82114a9)
+Germany: Feodor Lynen Fellowships (https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)
+  As a member of the Humboldt Network, Dr. Liu is entitled to host German Feodor Lynen Fellows. 
+  
+Outstanding candidates can also apply for the [Goldhaber fellowship](https://www.bnl.gov/hr/goldhaber/) at BNL. 
