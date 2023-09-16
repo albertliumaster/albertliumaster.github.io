@@ -20,7 +20,9 @@ Starting date is flexible, and applications will be reviewed until position is f
 
 ### Fellowships
 
-We especially welcome postdocs with fellowships, and would be happy to support you in applying both before and after joining our group. International applicants in particular can consider the following funding opportunities:
+We especially welcome postdocs with fellowships, and would be happy to support you in applying both before and after joining our group. 
+
+International applicants in particular can consider the following funding opportunities:
 <ul>
 <li>Japan: <a href="https://www.jsps.go.jp/j-pd/">JSPS Fellowships</a></li>
 <li>Taiwan: <a href="https://www.nstc.gov.tw/sci/ch/list/6b4a4661-9126-4d0c-897a-4022c82114a9">NSTC Fellowships</a></li>
