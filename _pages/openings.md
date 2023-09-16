@@ -25,7 +25,7 @@ We especially welcome postdocs with fellowships, and would be happy to support y
 <li>Japan: [JSPS Fellowships](https://www.jsps.go.jp/j-pd/)</li>
 <li>Taiwan: [NSTC Fellowships](https://www.nstc.gov.tw/sci/ch/list/6b4a4661-9126-4d0c-897a-4022c82114a9)</li>
 <li>Germany: [Feodor Lynen Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)</li>
-  As a member of the Humboldt Network, Dr. Liu is entitled to host German Feodor Lynen Fellows. 
+(As a member of the Humboldt Network, Dr. Liu is entitled to host German Feodor Lynen Fellows.)
 </ul>
 
 Outstanding candidates can also apply for the [Goldhaber fellowship](https://www.bnl.gov/hr/goldhaber/) at BNL.
