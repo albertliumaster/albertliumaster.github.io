@@ -50,9 +50,7 @@ permalink: /
 </div>
 
 
-We are an experimental research group in the [Condensed Matter Physics and Materials Science Department]([http://www.physics.leidenuniv.nl](https://www.bnl.gov/cmpmsd/)) at [Brookhaven National Lab](https://www.bnl.gov/world/). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
+We are an experimental research group in the [Condensed Matter Physics and Materials Science Department]([http://www.physics.leidenuniv.nl](https://www.bnl.gov/cmpmsd/)) at [Brookhaven National Lab](https://www.bnl.gov/world/). We have the broad scientific goal of using light to both <b>interrogate</b> as well as <b>engineer</b> properties of quantum matter, ranging from materials with strong electronic correlations to nanoscale objects subject to quantum confinement. To this end, we utilize light sources across the electromagnetic spectrum (terahertz - ultraviolet) to implement optical "pumps" and advanced spectroscopies. A specialty of our lab is multidimensional coherent spectroscopy, an optical analogue of nuclear magnetic resonance (see [Research](research)). 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
