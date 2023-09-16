@@ -1,10 +1,10 @@
 - title: "Probing Inhomogeneous Cuprate Superconductivity by Terahertz Josephson Echo Spectroscopy"
   image: MDTS.png
-  description: The superconducting gap in high-Tc cuprates is known to exhibit spatial inhomogeneity. It is unknown however, how disorder of the superconducting gap translates to disorder of the superconducting phase. To address this question we developed 2-D terahertz spectroscopy in a non-collinear geometry for the first time, allowing us to study bulk, single-crystal LSCO. The interlayer Josephson plasma resonance is observed with a 
+  description: The superconducting gap in high-Tc cuprates is known to exhibit spatial inhomogeneity. It is unknown however, how disorder of the superconducting gap translates to disorder of the superconducting phase. To address this question we developed 2-D terahertz spectroscopy in a non-collinear geometry for the first time, allowing us to study interlayer tunneling nonlinearities in single-crystal LSCO.
   authors: A Liu, D Pavicevic, MH Michael, AG Salvador, PE Dolgirev, M Fechner, AS Disa, PM Lozano, Q Li, GD Gu, E Demler, and A Cavalleri
   link:
     url: https://arxiv.org/abs/2308.14849
-    display: arXiV (2019)
+    display: arXiV (2023)
   highlight: 1
   
 - title: "Simultaneous Existence of Confined and Delocalized Vibrational Modes in Colloidal Quantum Dots"
