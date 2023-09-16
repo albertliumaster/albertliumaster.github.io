@@ -8,9 +8,13 @@ permalink: /research/
 
 # Research
 
+<p align="justify">
 Our overarching goal is to discover and understand phenomena in <b>quantum matter</b>. We broadly define quantum matter as systems in which quantum effects play a primary role in determining their properties, which range from materials with strong electronic correlations to objects with nanometer length scale dimensions, at which quantum confinement effects manifest.
+</p>
 
-We are specifically interested in the interaction of quantum matter with strong light fields, the regime of <b>nonlinear optics</b>. 
+<p align="justify">
+We are specifically interested in the interaction of quantum matter with strong light fields, the regime of <b>nonlinear optics</b>. In this regime, many new possibilities emerge, such as nonlinear spectroscopies and driving materials out of thermal equilibrium.
+</p>
 
 Here are some themes and techniques that we currently work on:
 
