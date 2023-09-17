@@ -54,7 +54,7 @@ We are an experimental research group in the [Condensed Matter Physics and Mater
 </p>
 
 <p align="justify">
-To this end, we utilize tabletop light sources across the electromagnetic spectrum (terahertz - ultraviolet) to implement optical "pumps" and advanced spectroscopies. A specialty of our lab is <b>multidimensional coherent spectroscopy</b>, an optical analogue of nuclear magnetic resonance. 
+To this end, we utilize tabletop light sources across the electromagnetic spectrum (terahertz - ultraviolet) to implement optical "pumps" and advanced spectroscopies. A specialty of our lab is the development and application of <b>multidimensional coherent spectroscopy</b>, an optical analogue of nuclear magnetic resonance, at <b>terahertz frequencies</b> to probe quantum matter at their fundamental energy scales. 
 </p>
 
 <p align="justify">
