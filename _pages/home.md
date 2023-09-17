@@ -58,7 +58,7 @@ To this end, we utilize tabletop light sources across the electromagnetic spectr
 </p>
 
 <p align="justify>
-Our group is part of a vibrant department with varied research groups working towards studying both fundamental and applied properties of condensed matter.
+Our group is part of a vibrant department with varied research groups studying both fundamental and applied properties of condensed matter, offering ample opportunity for collaboration. These include a broad condensed matter theory effort, world class materials growth, and a variety of experimental probes that complement our own. We are also across the street from the Center for Functional Nanomaterials, and their world-class staff and user facilities.
 </p>
 
  **We are  looking for motivated Postdocs to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
