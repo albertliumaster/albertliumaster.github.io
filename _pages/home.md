@@ -57,7 +57,7 @@ We are an experimental research group in the [Condensed Matter Physics and Mater
 To this end, we utilize tabletop light sources across the electromagnetic spectrum (terahertz - ultraviolet) to implement optical "pumps" and advanced spectroscopies. A specialty of our lab is <b>multidimensional coherent spectroscopy</b>, an optical analogue of nuclear magnetic resonance. 
 </p>
 
-<p align="justify>
+<p align="justify">
 Our group is part of a vibrant department with varied research groups studying both fundamental and applied properties of condensed matter, offering ample opportunity for collaboration. These include a broad condensed matter theory effort, world class materials growth, and a variety of experimental probes that complement our own. We are also across the street from the Center for Functional Nanomaterials, and their world-class staff and user facilities.
 </p>
 
