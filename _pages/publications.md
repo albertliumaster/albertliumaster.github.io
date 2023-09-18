@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Highlights
 
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications). See also Albert's [Google Scholar](https://scholar.google.com/citations?user=0-YFps4AAAAJ&hl=en).**
 
