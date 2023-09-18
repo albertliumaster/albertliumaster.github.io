@@ -21,11 +21,11 @@ Here are some techniques and themes that we currently work on:
 
 <p align="justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/2019_JPCLGraphic.png){: style="width: 250px; float: right; margin: 0px 10px"}
-**Technique: Multidimensional optical spectroscopy.** Multidimensional optical spectroscopy may be considered the most general nonlinear spectroscopic technique, which involves exciting a material with multiple ultrashort pulses of light and measuring a nonlinear observable. Compared to most nonlinear spectroscopies, which measure a projection or cross-section of a multidimensional optical response, multidimensional optical spectroscopy is capable of measuring nonlinear optical responses along all of their characteristic axes. One can 
+**Technique: Multidimensional optical spectroscopy.** Multidimensional optical spectroscopy may be considered the most general nonlinear spectroscopic technique, which involves exciting a material with multiple ultrashort pulses of light and measuring a nonlinear observable. Compared to most nonlinear spectroscopies, which measure a projection or cross-section of a multidimensional optical response, multidimensional optical spectroscopy is capable of measuring nonlinear optical responses along all of their characteristic axes. This yields physics inaccessible with conventional one-dimensional techniques, for example in coupling between different excitations, many-body interactions, and disentangling intrinsic optical responses and disorder broadening.
 </p>
 
 <p align="justify">
-**Theme: Artificial atoms.** The Bohr model of the atom introduced the concept of discrete electronic energy levels. Today, we can replicate these discrete excitation spectra in solid-state materials for technological applications, but disorder and interactions with the lattice environment (phonons) complicate the physics tremendously. Defect vacancy centers and colloidal nanocrystals are examples of such systems that we have studied using multidimensional spectroscopy [1,2,3,4], yielding much new insight into these "artificial atoms".
+**Theme: Artificial atoms.** The Bohr model of the atom introduced the concept of discrete electronic energy levels. Today, we can replicate these discrete excitation spectra in solid-state materials for technological applications, but disorder and interactions with the lattice environment (phonons) complicate the physics tremendously. Defect vacancy centers and colloidal nanocrystals are examples of such systems that we have studied using multidimensional spectroscopy [1,2,3,4], providing much new insight into these "artificial atoms".
 </p>
 
 <p align="justify">
