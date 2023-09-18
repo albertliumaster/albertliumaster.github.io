@@ -34,7 +34,7 @@ Here are some techniques and themes that we currently work on:
 </p>
 
 <p align="justify">
-**Theme: Layered superconductors.** One of the defining characteristics of high-temperature cuprate superconductors is their layered structure. One may explain many of their salient physics by describing cuprates as superconducting copper-oxygen planes separated by insulating spacer layers, for example in the appearance of Josephson tunneling resonances in the superconducting phase.
+**Theme: Layered superconductors.** One of the defining characteristics of high-temperature cuprate superconductors, and more recently their nickelate cousins, is their layered structure. One may explain many of their salient physics by describing cuprates as superconducting copper-oxygen planes separated by insulating spacer layers, for example in the appearance of characteristic tunneling resonances in the superconducting phase. These "Josephson plasmons" provide unique insight into both superconducting dynamics and the static superconducting phase, which we have recently studied using multidimensional terahertz spectroscopy. 
 </p>
 
 <p align="justify">
