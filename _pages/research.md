@@ -20,7 +20,7 @@ Here are some techniques and themes that we currently work on:
 
 
 <p align="justify">
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/2019_JPCLGraphic.png){: style="width: 250px; float: right; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/2019_JPCLGraphic.png){: style="width: 240px; float: right; margin: 0px 10px"}
 **Technique: Multidimensional optical spectroscopy.** Multidimensional optical spectroscopy may be considered the most general nonlinear spectroscopic technique, which involves exciting a material with multiple ultrashort pulses of light and measuring a nonlinear observable. Compared to most nonlinear spectroscopies, which measure a projection or cross-section of a multidimensional optical response, multidimensional optical spectroscopy is capable of measuring nonlinear optical responses along all of their characteristic axes. This yields physics inaccessible with conventional one-dimensional techniques, for example in coupling between different excitations, many-body interactions, and disentangling intrinsic optical responses and disorder broadening.
 </p>
 
@@ -29,7 +29,7 @@ Here are some techniques and themes that we currently work on:
 </p>
 
 <p align="justify">
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/MDTS.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/MDTS.png){: style="width: 240px; float: left; margin: 0px  10px"}
 **Technique: Multidimensional terahertz spectroscopy.** Many materials with strong electronic correlations manifest interesting physics at cryogenic temperatures. The energy scales of their corresponding collective excitations are therefore in the terahertz frequency regime, orders of magnitude smaller than the photon energies of visible and near-infrared light. A current frontier is thus to implement multidimensional spectroscopy at terahertz frequencies, which has been accomplished by multiple groups in collinear geometries. We have recently developed multidimensional terahertz spectroscopy in a noncollinear geometry, allowing us to study both transparent and opaque materials with the advantage of wavevector phase-matching.
 </p>
 
@@ -42,7 +42,7 @@ Here are some techniques and themes that we currently work on:
 </p>
 
 <p align="justify">
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/YTOMagnetism.jpeg){: style="width: 250px; float: right; margin: 0px 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/YTOMagnetism.jpeg){: style="width: 240px; float: right; margin: 0px 10px"} 
 **Technique: Mode-selective phonon pumping.** Advances in laser technology now allow for generation of intense, tunable light sources in the terahertz and mid-infrared frequency ranges. By targeting specific vibrational modes, light can be used to manipulate crystal structures to control material properties, via so-called <b>nonlinear phononics</b>. Spectacular demonstrations of this concept include inducing ferroic order, topological effects, and signatures of superconductivity from unordered phases in equilibrium. Our group is particularly interested in elucidating the mechanisms that lead to these light-induced non-equilibrium phases.
 </p>
 
