@@ -25,7 +25,7 @@ Here are some techniques and themes that we currently work on:
 </p>
 
 <p align="justify">
-**Theme: Artificial atoms.** The Bohr model of the atom introduced the concept of discrete electronic energy levels. Today, we can replicate these discrete excitation spectra in solid-state materials for technological applications. Defect vacancy centers and colloidal nanocrystals are examples of such "artificial atoms" that we have studied using multidimensional spectroscopy [1,2,3,4].
+**Theme: Artificial atoms.** The Bohr model of the atom introduced the concept of discrete electronic energy levels. Today, we can replicate these discrete excitation spectra in solid-state materials for technological applications, but disorder and interactions with the lattice environment (phonons) complicate the physics tremendously. Defect vacancy centers and colloidal nanocrystals are examples of such systems that we have studied using multidimensional spectroscopy [1,2,3,4], yielding much new insight into these "artificial atoms".
 </p>
 
 <p align="justify">
