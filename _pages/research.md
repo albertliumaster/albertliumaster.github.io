@@ -38,8 +38,7 @@ Here are some techniques and themes that we currently work on:
 </p>
 
 <p align="justify">
-**Theme: Fluctuating ferromagnets and ferroelectrics.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
+**Theme: Fluctuating ferromagnets and ferroelectrics.** Ferroelectrics and ferromagnets are ubiquitous in all modern technologies. Despite the remarkable success of Landau theory in describing most ferroics, certain systems defy our classical understanding. Whether frustration or fluctuations, quantum effects can play a primary role in many materials of technological relevance. We aim to study such unconventional ferroics using nonlinear optical techniques, and to use light in manipulating their properties.
 </p>
 
 <p align="justify">
