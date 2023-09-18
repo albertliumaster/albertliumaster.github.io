@@ -43,7 +43,7 @@ Here are some techniques and themes that we currently work on:
 
 <p align="justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/YTOMagnetism.jpeg){: style="width: 250px; float: right; margin: 0px 10px"} 
-**Technique: Mode-selective phonon pumping.** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+**Technique: Mode-selective phonon pumping.** Advances in laser technology now allow for generation of intense, tunable light sources in the terahertz and mid-infrared frequency ranges. By targeting specific vibrational modes, light can be used to manipulate crystal structures to control material properties, via so-called <b>nonlinear phononics</b>. Spectacular demonstrations of this concept include inducing ferroic order, topological effects, and signatures of superconductivity from unordered phases in equilibrium. Our group is particularly interested in elucidating the mechanisms that lead to these light-induced non-equilibrium phases.
 </p>
 
 ### ... and more.
