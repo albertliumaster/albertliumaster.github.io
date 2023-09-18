@@ -21,7 +21,7 @@ Here are some techniques and themes that we currently work on:
 
 <p align="justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/2019_JPCLGraphic.png){: style="width: 250px; float: right; margin: 0px 10px"}
-**Technique: Multidimensional optical spectroscopy.** Multidimensional optical spectroscopy may be considered the most general nonlinear spectroscopic technique, which involves exciting a material with multiple ultrashort pulses of light and measuring a nonlinear observable. Compared to most nonlinear spectroscopies, which measure a projection or cross-section of a multidimensional optical response, multidimensional optical spectroscopy is capable of measuring nonlinear optical responses along all of their characteristic axes.
+**Technique: Multidimensional optical spectroscopy.** Multidimensional optical spectroscopy may be considered the most general nonlinear spectroscopic technique, which involves exciting a material with multiple ultrashort pulses of light and measuring a nonlinear observable. Compared to most nonlinear spectroscopies, which measure a projection or cross-section of a multidimensional optical response, multidimensional optical spectroscopy is capable of measuring nonlinear optical responses along all of their characteristic axes. One can 
 </p>
 
 <p align="justify">
