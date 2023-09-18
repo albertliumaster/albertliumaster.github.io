@@ -30,7 +30,7 @@ Here are some techniques and themes that we currently work on:
 
 <p align="justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/MDTS.png){: style="width: 250px; float: left; margin: 0px  10px"}
-**Technique: Multidimensional terahertz spectroscopy.** One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+**Technique: Multidimensional terahertz spectroscopy.** Many materials with strong electronic correlations manifest interesting physics at cryogenic temperatures. The energy scales of their corresponding collective excitations are therefore in the terahertz frequency regime, orders of magnitude smaller than the photon energies of visible and near-infrared light. A current frontier is thus to implement multidimensional spectroscopy at terahertz frequencies, which has been accomplished by multiple groups in collinear geometries. We have recently developed multidimensional terahertz spectroscopy in a noncollinear geometry, allowing us to study both transparent and opaque materials with the advantage of wavevector phase-matching.
 </p>
 
 <p align="justify">
