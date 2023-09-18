@@ -1,5 +1,5 @@
 ---
-title: "NOoQM Lab - Vacancies"
+title: "NOoQM Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
