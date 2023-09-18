@@ -34,7 +34,7 @@ Here are some techniques and themes that we currently work on:
 </p>
 
 <p align="justify">
-**Theme: Layered superconductors.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+**Theme: Layered superconductors.** One of the defining characteristics of high-temperature cuprate superconductors is their layered structure. One may explain many of their salient physics by describing cuprates as superconducting copper-oxygen planes separated by insulating spacer layers, for example in the appearance of Josephson tunneling resonances in the superconducting phase.
 </p>
 
 <p align="justify">
