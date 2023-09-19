@@ -1,7 +1,7 @@
 ---
-title: "MPQM Lab - Publications"
+title: "NOoQM Lab - Publications"
 layout: gridlay
-excerpt: "MPQM Lab -- Publications."
+excerpt: "NOoQM Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
