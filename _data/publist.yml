@@ -7,6 +7,15 @@
     display: arXiV (2023)
   highlight: 1
 
+- title: "Off-axis imaging with off-axis parabolic mirrors"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu.
+  link:
+    url: https://doi.org/10.1364/AO.505675
+    display: Applied Optics 62, 32 (2023)
+  highlight: 0
+  
 - title: "Measuring exciton-phonon coupling in semiconductor nanocrystals"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
