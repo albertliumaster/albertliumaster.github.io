@@ -4,9 +4,18 @@
   authors: A Liu, D Pavicevic, MH Michael, AG Salvador, PE Dolgirev, M Fechner, AS Disa, PM Lozano, Q Li, GD Gu, E Demler, and A Cavalleri
   link:
     url: https://arxiv.org/abs/2308.14849
-    display: arXiV (2023)
+    display: arXiV:2308.14849 (2023)
   highlight: 1
 
+- title: "An exact expression for multidimensional spectroscopy of a spin-boson Hamiltonian"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu.
+  link:
+    url: https://arxiv.org/abs/2311.05458
+    display: arXiV:2311.05458 (2023)
+  highlight: 0
+  
 - title: "Off-axis imaging with off-axis parabolic mirrors"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
