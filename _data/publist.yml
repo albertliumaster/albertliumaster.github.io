@@ -1,3 +1,12 @@
+- title: "Squeezed Josephson plasmons in driven YBa2Cu3O6+x"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: N Taherian, M Först, A Liu, M Fechner, D Pavicevic, A von Hoegen, E Rowe, Y Liu, S Nakata, B Keimer, E Demler, MH Michael, and A Cavalleri
+  link:
+    url: https://arxiv.org/abs/2401.01115
+    display: arXiV:2401.01115 (2024)
+  highlight: 0
+  
 - title: "Probing Inhomogeneous Cuprate Superconductivity by Terahertz Josephson Echo Spectroscopy"
   image: MDTS.png
   description: The superconducting gap in high-Tc cuprates is known to exhibit spatial inhomogeneity. It is unknown however, how disorder of the superconducting gap translates to disorder of the superconducting phase. To address this question we developed 2-D terahertz spectroscopy in a non-collinear geometry for the first time, allowing us to study interlayer tunneling nonlinearities in single-crystal LSCO.
