@@ -50,7 +50,7 @@ permalink: /
 </div>
 
 <p align="justify">
-We are an experimental research group in the [Condensed Matter Physics and Materials Science Department]([http://www.physics.leidenuniv.nl](https://www.bnl.gov/cmpmsd/)) at [Brookhaven National Lab](https://www.bnl.gov/world/). We have the broad scientific goal of using light to both <b>interrogate</b> as well as <b>engineer</b> properties of quantum matter, ranging from materials with strong electronic correlations to nanoscale objects subject to quantum confinement.
+We are an experimental research group in the [Condensed Matter Physics and Materials Science Department](https://www.bnl.gov/cmpmsd/) at [Brookhaven National Lab](https://www.bnl.gov/world/). We have the broad scientific goal of using light to both <b>interrogate</b> as well as <b>engineer</b> properties of quantum matter, ranging from materials with strong electronic correlations to nanoscale objects subject to quantum confinement.
 </p>
 
 <p align="justify">
