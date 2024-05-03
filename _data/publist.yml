@@ -36,12 +36,12 @@
 
 - title: "An exact expression for multidimensional spectroscopy of a spin-boson Hamiltonian"
   image: AQTCover.png
-  description: Placeholder.
+  description: In open quantum systems, coupling between system and bath degrees of freedom are a primary source of quantum decoherence. Multidimensional coherent spectroscopy (MDCS) is a powerful technique capable of directly probing the spectral density of the system–bath coupling. To simplify modeling of MDCS of an open quantum system, we derive a compact, exact expression for multidimensional spectra of a spin-boson Hamiltonian.
   authors: A Liu.
   link:
     url: https://doi.org/10.1002/qute.202300399
     display: Advanced Quantum Technologies 7, 3 (2024)
-  highlight: 0
+  highlight: 1
   
 - title: "Off-axis imaging with off-axis parabolic mirrors"
   image: 2019_JPCLGraphic.png
