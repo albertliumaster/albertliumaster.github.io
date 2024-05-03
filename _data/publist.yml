@@ -35,12 +35,12 @@
   highlight: 1
 
 - title: "An exact expression for multidimensional spectroscopy of a spin-boson Hamiltonian"
-  image: 2019_JPCLGraphic.png
+  image: AQTCover.png
   description: Placeholder.
   authors: A Liu.
   link:
-    url: https://arxiv.org/abs/2311.05458
-    display: arXiV:2311.05458 (2023)
+    url: https://doi.org/10.1002/qute.202300399
+    display: Advanced Quantum Technologies 7, 3 (2024)
   highlight: 0
   
 - title: "Off-axis imaging with off-axis parabolic mirrors"
