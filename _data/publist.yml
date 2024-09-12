@@ -1,12 +1,3 @@
-- title: "Excitation-Dependent Features and Artifacts in 2-D Terahertz Spectroscopy"
-  image: 2019_JPCLGraphic.png
-  description: Placeholder.
-  authors: A Liu and A Disa
-  link:
-    url: https://arxiv.org/abs/2405.00971
-    display: arXiV:2405.00971 (2024)
-  highlight: 0
-
 - title: "Principles of 2D terahertz spectroscopy of collective excitations: the case of Josephson plasmons in layered superconductors"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
@@ -33,6 +24,15 @@
     url: https://arxiv.org/abs/2308.14849
     display: arXiV:2308.14849 (2023)
   highlight: 1
+
+  - title: "Excitation-Dependent Features and Artifacts in 2-D Terahertz Spectroscopy"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu and A Disa
+  link:
+    url: https://doi.org/10.1364/OE.529152
+    display: Optics Express 32, 16 (2024)
+  highlight: 0
 
 - title: "An exact expression for multidimensional spectroscopy of a spin-boson Hamiltonian"
   image: AQTCover.png
