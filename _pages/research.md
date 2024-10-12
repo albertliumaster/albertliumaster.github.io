@@ -1,7 +1,7 @@
 ---
-title: "NOoQM Lab - Research"
+title: "Liu Lab - Research"
 layout: textlay
-excerpt: "NOoQM Lab -- Research"
+excerpt: "Liu Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
