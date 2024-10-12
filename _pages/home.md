@@ -50,7 +50,7 @@ permalink: /
 </div>
 
 <p align="justify">
-The Nonlinear Optics of Quantum Matter (NOoQM) lab is a research group led by Albert Liu in the [Condensed Matter Physics and Materials Science Department](https://www.bnl.gov/cmpmsd/) at [Brookhaven National Lab](https://www.bnl.gov/world/). We have the broad scientific goal of using light to both <b>interrogate</b> as well as <b>engineer</b> properties of quantum matter, ranging from materials with strong electronic correlations to nanoscale objects subject to quantum confinement.
+The Nonlinear Optics of Quantum Matter (NOoQM) lab is a research group led by [Albert Liu](https://www.bnl.gov/staff/aliu1) in the [Condensed Matter Physics and Materials Science Department](https://www.bnl.gov/cmpmsd/) at [Brookhaven National Lab](https://www.bnl.gov/world/). We have the broad scientific goal of using light to both <b>interrogate</b> as well as <b>engineer</b> properties of quantum matter, ranging from materials with strong electronic correlations to nanoscale objects subject to quantum confinement.
 </p>
 
 <p align="justify">
