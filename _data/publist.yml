@@ -1,12 +1,3 @@
-- title: "Principles of 2D terahertz spectroscopy of collective excitations: the case of Josephson plasmons in layered superconductors"
-  image: 2019_JPCLGraphic.png
-  description: Placeholder.
-  authors: AG Salvador, PE Dolgirev, MH Michael, A Liu, D Pavicevic, M Fechner, A Cavalleri, and E Demler
-  link:
-    url: https://arxiv.org/abs/2401.05503
-    display: arXiV:2401.05503 (2024)
-  highlight: 0
-  
 - title: "Squeezed Josephson plasmons in driven YBa2Cu3O6+x"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
@@ -15,15 +6,27 @@
     url: https://arxiv.org/abs/2401.01115
     display: arXiV:2401.01115 (2024)
   highlight: 0
-  
+
+- title: "Principles of 2D terahertz spectroscopy of collective excitations: the case of Josephson plasmons in layered superconductors"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: AG Salvador, PE Dolgirev, MH Michael, A Liu, D Pavicevic, M Fechner, A Cavalleri, and E Demler
+  link:
+    url: https://doi.org/10.1103/PhysRevB.110.094514
+    display: Physical Review B 110, 9 (2024)
+  highlight: 0
+  news1: <a style="color:#FF0000">Editor's Suggestion</a>
+
 - title: "Probing Inhomogeneous Cuprate Superconductivity by Terahertz Josephson Echo Spectroscopy"
   image: MDTS.png
   description: The superconducting gap in high-Tc cuprates is known to exhibit spatial inhomogeneity. It is unknown however, how disorder of the superconducting gap translates to disorder of the superconducting phase. To address this question we developed 2-D terahertz spectroscopy in a non-collinear geometry for the first time, allowing us to study interlayer tunneling nonlinearities in single-crystal LSCO.
   authors: A Liu, D Pavicevic, MH Michael, AG Salvador, PE Dolgirev, M Fechner, AS Disa, PM Lozano, Q Li, GD Gu, E Demler, and A Cavalleri
   link:
-    url: https://arxiv.org/abs/2308.14849
-    display: arXiV:2308.14849 (2023)
+    url: https://doi.org/10.1038/s41567-024-02643-5
+    display: Nature Physics, (2024)
   highlight: 1
+  news2: See coverage by [MPSD](https://www.mpsd.mpg.de/907417/2024-09-2Dspectroscopy-liu?c=2736)
+
 
 - title: "Excitation-Dependent Features and Artifacts in 2-D Terahertz Spectroscopy"
   image: 2019_JPCLGraphic.png
