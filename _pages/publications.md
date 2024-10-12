@@ -1,7 +1,7 @@
 ---
-title: "NOoQM Lab - Publications"
+title: "Liu Lab - Publications"
 layout: gridlay
-excerpt: "NOoQM Lab -- Publications."
+excerpt: "Liu Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
