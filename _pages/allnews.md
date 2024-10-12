@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "NOoQM Lab @ BNL."
+excerpt: "Liu Lab @ BNL."
 sitemap: false
 permalink: /allnews.html
 ---
