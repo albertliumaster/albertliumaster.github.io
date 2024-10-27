@@ -21,7 +21,9 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+            <a href="https://doi.org/10.1038/s41567-024-02643-5">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CooperPairs.png" alt="Slide 1" />
+            </a>
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/MDTS.png" alt="Slide 6" />
