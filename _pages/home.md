@@ -29,16 +29,24 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/MDTS.png" alt="Slide 6" />
         </div>
         <div class="item">
+            <a href="https://doi.org/10.1038/s41586-023-05853-8">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/YTOMagnetism.jpg" alt="Slide 2" />
+            </a>
         </div>
         <div class="item">
+            <a href="https://doi.org/10.1126/sciadv.abb3594">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TripletCoherence.png" alt="Slide 3" />
+            </a>
         </div>
         <div class="item">
+            <a href="https://doi.org/10.1021/acsnano.0c09244">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2021_ACSNanoGraphic.png" alt="Slide 4" />
+            </a>
         </div>
         <div class="item">
+            <a href="https://doi.org/10.1021/acs.jpclett.9b02474">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ConfinedVibrations.png" alt="Slide 5" />
+            </a>
         </div>       
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
