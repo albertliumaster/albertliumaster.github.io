@@ -26,13 +26,13 @@
   highlight: 0
   news1: <a style="color:#FF0000">Editor's Suggestion</a>
 
-- title: "Probing Inhomogeneous Cuprate Superconductivity by Terahertz Josephson Echo Spectroscopy - [pdf](/downloads/Liu_NatPhys_2024.pdf)"
+- title: "Probing Inhomogeneous Cuprate Superconductivity by Terahertz Josephson Echo Spectroscopy"
   image: MDTS.png
   description: The superconducting gap in high-Tc cuprates is known to exhibit spatial inhomogeneity. It is unknown however, how disorder of the superconducting gap translates to disorder of the superconducting phase. To address this question we developed 2-D terahertz spectroscopy in a non-collinear geometry for the first time, allowing us to study interlayer tunneling nonlinearities in single-crystal LSCO.
   authors: A Liu, D Pavicevic, MH Michael, AG Salvador, PE Dolgirev, M Fechner, AS Disa, PM Lozano, Q Li, GD Gu, E Demler, and A Cavalleri
   link:
     url: https://doi.org/10.1038/s41567-024-02643-5
-    display: Nature Physics, 20, 1751–1756 (2024)
+    display: Nature Physics, 20, 1751–1756 (2024) - [pdf](/downloads/Liu_NatPhys_2024.pdf)
   highlight: 1
   news2: See coverage by [MPSD](https://www.mpsd.mpg.de/907417/2024-09-2Dspectroscopy-liu?c=2736)
 
