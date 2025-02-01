@@ -46,7 +46,7 @@
     display: Optics Express 32, 16 (2024)
   highlight: 0
 
-- title: "An exact expression for multidimensional spectroscopy of a spin-boson Hamiltonian - [pdf](/downloads/Liu_AQT_2024.pdf)"
+- title: "An Exact Expression for Multidimensional Spectroscopy of a Spin-Boson Hamiltonian - [pdf](/downloads/Liu_AQT_2024.pdf)"
   image: AQTCover.png
   description: In open quantum systems, coupling between system and bath degrees of freedom are a primary source of quantum decoherence. Multidimensional coherent spectroscopy (MDCS) is a powerful technique capable of directly probing the spectral density of the system–bath coupling. To simplify modeling of MDCS of an open quantum system, we derive a compact, exact expression for multidimensional spectra of a spin-boson Hamiltonian.
   authors: A Liu
@@ -55,7 +55,7 @@
     display: Advanced Quantum Technologies 7, 3 (2024)
   highlight: 1
   
-- title: "Off-axis imaging with off-axis parabolic mirrors - [pdf](/downloads/Liu_AO_2024.pdf)"
+- title: "Off-Axis Imaging with Off-Axis Parabolic Mirrors - [pdf](/downloads/Liu_AO_2024.pdf)"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
   authors: A Liu.
@@ -64,7 +64,7 @@
     display: Applied Optics 62, 32 (2023)
   highlight: 0
   
-- title: "Measuring exciton-phonon coupling in semiconductor nanocrystals"
+- title: "Measuring Exciton-Phonon Coupling in Semiconductor Nanocrystals"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
   authors: A Liu, DB Almeida, LA Padilha, and ST Cundiff.
