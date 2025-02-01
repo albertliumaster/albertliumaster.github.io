@@ -26,7 +26,7 @@
   highlight: 0
   news1: <a style="color:#FF0000">Editor's Suggestion</a>
 
-- title: "Probing Inhomogeneous Cuprate Superconductivity by Terahertz Josephson Echo Spectroscopy - [pdf](/downloads/Liu_NatPhys_2024.pdf)"
+- title: "Probing Inhomogeneous Cuprate Superconductivity by Terahertz Josephson Echo Spectroscopy - <a href="/downloads/Liu_NatPhys_2024.pdf">pdf</a>"
   image: MDTS.png
   description: The superconducting gap in high-Tc cuprates is known to exhibit spatial inhomogeneity. It is unknown however, how disorder of the superconducting gap translates to disorder of the superconducting phase. To address this question we developed 2-D terahertz spectroscopy in a non-collinear geometry for the first time, allowing us to study interlayer tunneling nonlinearities in single-crystal LSCO.
   authors: A Liu, D Pavicevic, MH Michael, AG Salvador, PE Dolgirev, M Fechner, AS Disa, PM Lozano, Q Li, GD Gu, E Demler, and A Cavalleri
@@ -37,7 +37,7 @@
   news2: See coverage by [MPSD](https://www.mpsd.mpg.de/907417/2024-09-2Dspectroscopy-liu?c=2736)
 
 
-- title: "Excitation-Dependent Features and Artifacts in 2-D Terahertz Spectroscopy"
+- title: "Excitation-Dependent Features and Artifacts in 2-D Terahertz Spectroscopy - [pdf](/downloads/Liu_OptExpr_2024.pdf)"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
   authors: A Liu and A Disa
@@ -46,7 +46,7 @@
     display: Optics Express 32, 16 (2024)
   highlight: 0
 
-- title: "An exact expression for multidimensional spectroscopy of a spin-boson Hamiltonian"
+- title: "An exact expression for multidimensional spectroscopy of a spin-boson Hamiltonian - [pdf](/downloads/Liu_AQT_2024.pdf)"
   image: AQTCover.png
   description: In open quantum systems, coupling between system and bath degrees of freedom are a primary source of quantum decoherence. Multidimensional coherent spectroscopy (MDCS) is a powerful technique capable of directly probing the spectral density of the system–bath coupling. To simplify modeling of MDCS of an open quantum system, we derive a compact, exact expression for multidimensional spectra of a spin-boson Hamiltonian.
   authors: A Liu
@@ -55,7 +55,7 @@
     display: Advanced Quantum Technologies 7, 3 (2024)
   highlight: 1
   
-- title: "Off-axis imaging with off-axis parabolic mirrors"
+- title: "Off-axis imaging with off-axis parabolic mirrors - [pdf](/downloads/Liu_AO_2024.pdf)"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
   authors: A Liu.
