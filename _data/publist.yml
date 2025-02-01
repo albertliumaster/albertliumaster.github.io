@@ -7,22 +7,22 @@
     display: arXiV:2401.01115 (2024)
   highlight: 0
 
-- title: "Valley-Mediated Singlet- and Triplet-Polaron Interactions and Quantum Dynamics in a Doped WSe2 Monolayer - [pdf](/downloads/Ni_PRL_2025.pdf)"
+- title: "Valley-Mediated Singlet- and Triplet-Polaron Interactions and Quantum Dynamics in a Doped WSe2 Monolayer"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
   authors: Y Ni, D Huang, D Liang, A Liu, X Liu, K Sampson, Z Liu, J Quan, K Watanabe, T Taniguchi, DK Efimkin, J Levinsen, MM Parish, and X Li
   link:
     url: https://doi.org/10.1103/PhysRevLett.134.036901
-    display: Physical Review Letters 134, 3 (2025)
+    display: Physical Review Letters 134, 3 (2025) - [pdf](/downloads/Ni_PRL_2025.pdf)
   highlight: 0
   
-- title: "Principles of 2D terahertz spectroscopy of collective excitations: the case of Josephson plasmons in layered superconductors - [pdf](/downloads/Salvador_PRB_2024.pdf)"
+- title: "Principles of 2D terahertz spectroscopy of collective excitations: the case of Josephson plasmons in layered superconductors"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
   authors: AG Salvador, PE Dolgirev, MH Michael, A Liu, D Pavicevic, M Fechner, A Cavalleri, and E Demler
   link:
     url: https://doi.org/10.1103/PhysRevB.110.094514
-    display: Physical Review B 110, 9 (2024)
+    display: Physical Review B 110, 9 (2024) - [pdf](/downloads/Salvador_PRB_2024.pdf)
   highlight: 0
   news1: <a style="color:#FF0000">Editor's Suggestion</a>
 
@@ -37,31 +37,31 @@
   news2: See coverage by [MPSD](https://www.mpsd.mpg.de/907417/2024-09-2Dspectroscopy-liu?c=2736)
 
 
-- title: "Excitation-Dependent Features and Artifacts in 2-D Terahertz Spectroscopy - [pdf](/downloads/Liu_OptExpr_2024.pdf)"
+- title: "Excitation-Dependent Features and Artifacts in 2-D Terahertz Spectroscopy"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
   authors: A Liu and A Disa
   link:
     url: https://doi.org/10.1364/OE.529152
-    display: Optics Express 32, 16 (2024)
+    display: Optics Express 32, 16 (2024) - [pdf](/downloads/Liu_OptExpr_2024.pdf)
   highlight: 0
 
-- title: "An Exact Expression for Multidimensional Spectroscopy of a Spin-Boson Hamiltonian - [pdf](/downloads/Liu_AQT_2024.pdf)"
+- title: "An Exact Expression for Multidimensional Spectroscopy of a Spin-Boson Hamiltonian"
   image: AQTCover.png
   description: In open quantum systems, coupling between system and bath degrees of freedom are a primary source of quantum decoherence. Multidimensional coherent spectroscopy (MDCS) is a powerful technique capable of directly probing the spectral density of the system–bath coupling. To simplify modeling of MDCS of an open quantum system, we derive a compact, exact expression for multidimensional spectra of a spin-boson Hamiltonian.
   authors: A Liu
   link:
     url: https://doi.org/10.1002/qute.202300399
-    display: Advanced Quantum Technologies 7, 3 (2024)
+    display: Advanced Quantum Technologies 7, 3 (2024) - [pdf](/downloads/Liu_AQT_2024.pdf)
   highlight: 1
   
-- title: "Off-Axis Imaging with Off-Axis Parabolic Mirrors - [pdf](/downloads/Liu_AO_2024.pdf)"
+- title: "Off-Axis Imaging with Off-Axis Parabolic Mirrors"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
   authors: A Liu.
   link:
     url: https://doi.org/10.1364/AO.505675
-    display: Applied Optics 62, 32 (2023)
+    display: Applied Optics 62, 32 (2023) - [pdf](/downloads/Liu_AO_2024.pdf)
   highlight: 0
   
 - title: "Measuring Exciton-Phonon Coupling in Semiconductor Nanocrystals"
