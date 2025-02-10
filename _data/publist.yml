@@ -15,15 +15,6 @@
     url: https://arxiv.org/abs/2409.13101
     display: arXiV:2409.13101 (2024)
   highlight: 0
-
-- title: "Multidimensional Terahertz Probes of Quantum Materials"
-  image: 2019_JPCLGraphic.png
-  description: Placeholder.
-  authors: A Liu
-  link:
-    url: https://arxiv.org/abs/2409.03719
-    display: arXiV:2409.03719 (2024)
-  highlight: 0
   
 - title: "Squeezed Josephson plasmons in driven YBa2Cu3O6+x"
   image: 2019_JPCLGraphic.png
@@ -34,6 +25,15 @@
     display: arXiV:2401.01115 (2024)
   highlight: 0
 
+- title: "Multidimensional Terahertz Probes of Quantum Materials"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu
+  link:
+    url: https://doi.org/10.1038/s41535-025-00741-y
+    display: npj Quantum Materials 10, 18 (2025)
+  highlight: 0
+  
 - title: "Valley-Mediated Singlet- and Triplet-Polaron Interactions and Quantum Dynamics in a Doped WSe2 Monolayer"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
