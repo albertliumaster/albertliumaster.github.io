@@ -26,13 +26,13 @@
   highlight: 0
 
 - title: "Multidimensional Terahertz Probes of Quantum Materials"
-  image: 2019_JPCLGraphic.png
-  description: Placeholder.
+  image: 2025_npjQM.png
+  description: In this perspective article, we introduce the principles of 2-D terahertz spectroscopy with a classical anharmonic oscillator model and outline the unique capabilities of the technique when applied to quantum materials. An outlook for multidimensional probes of non-equilibrium phases of quantum materials is also provided.
   authors: A Liu
   link:
     url: https://doi.org/10.1038/s41535-025-00741-y
     display: npj Quantum Materials 10, 18 (2025) - [pdf](/downloads/Liu_npjQM_2025.pdf)
-  highlight: 0
+  highlight: 1
   
 - title: "Valley-Mediated Singlet- and Triplet-Polaron Interactions and Quantum Dynamics in a Doped WSe2 Monolayer"
   image: 2019_JPCLGraphic.png
