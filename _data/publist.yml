@@ -27,7 +27,7 @@
 
 - title: "Multidimensional Terahertz Probes of Quantum Materials"
   image: 2025_npjQM.png
-  description: In this perspective article, we introduce the principles of 2-D terahertz spectroscopy with a classical anharmonic oscillator model and outline the unique capabilities of the technique when applied to quantum materials. An outlook for multidimensional probes of non-equilibrium phases of quantum materials is also provided.
+  description: In this perspective article, we introduce the principles of 2-D terahertz spectroscopy with a heuristic classical anharmonic oscillator model that provides intuition for the various nonlinearities observed in multidimensional spectra. We then outline the unique physics of quantum materials revealed by the specific nonlinearities. An outlook for multidimensional probes of non-equilibrium phases of quantum materials is also provided.
   authors: A Liu
   link:
     url: https://doi.org/10.1038/s41535-025-00741-y
