@@ -1,12 +1,3 @@
-- title: "Unifying Measurement Schemes in 2-D Terahertz Spectroscopy"
-  image: 2019_JPCLGraphic.png
-  description: Placeholder.
-  authors: A Liu
-  link:
-    url: https://arxiv.org/abs/2504.16199
-    display: arXiV:2504.16199 (2025)
-  highlight: 0
-  
 - title: "Probing Complex Decoherence Processes in Materials for Quantum Applications"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
@@ -42,14 +33,32 @@
     url: https://arxiv.org/abs/2409.13101
     display: arXiV:2409.13101 (2024)
   highlight: 0
+
+- title: "Unifying Measurement Schemes in 2-D Terahertz Spectroscopy"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Liu
+  link:
+    url: https://doi.org/10.1063/5.0272203
+    display: Journal of Chemical Physics 163, 4 (2025) - [pdf](/downloads/Liu_JCP_2025.pdf)
+  highlight: 0
+
+- title: "Correlated Lattice Fluctuations in CsPbBr3 Quantum Dots Give Rise to Long-Lived Electronic Coherence"
+  image: 2019_JPCLGraphic.png
+  description: Placeholder.
+  authors: A Ghosh, A Liu, SC Boehme, P Brosseau, D N Dirin, MV Kovalenko, and P Kambhampati
+  link:
+    url: https://doi.org/10.1021/acsnano.5c03051
+    display: ACS Nano 19, 21 (2025) - [pdf](/downloads/Ghosh_ACSNano_2025.pdf)
+  highlight: 0
   
 - title: "Squeezed Josephson plasmons in driven YBa2Cu3O6+x"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
   authors: N Taherian, M Först, A Liu, M Fechner, D Pavicevic, A von Hoegen, E Rowe, Y Liu, S Nakata, B Keimer, E Demler, MH Michael, and A Cavalleri
   link:
-    url: https://arxiv.org/abs/2401.01115
-    display: arXiV:2401.01115 (2024)
+    url: https://doi.org/10.1038/s41535-025-00776-1
+    display: npj Quantum Materials 10, 1 (2025) - [pdf](/downloads/Taherian_npjQM_2025.pdf)
   highlight: 0
 
 - title: "Multidimensional Terahertz Probes of Quantum Materials"
