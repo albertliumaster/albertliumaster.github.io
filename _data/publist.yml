@@ -1,12 +1,3 @@
-- title: "Probing Complex Decoherence Processes in Materials for Quantum Applications"
-  image: 2019_JPCLGraphic.png
-  description: Placeholder.
-  authors: A Liu, MW Day, and ST Cundiff
-  link:
-    url: https://arxiv.org/abs/2504.14034
-    display: arXiV:2504.14034 (2025)
-  highlight: 0
-  
 - title: "Nonlocal Coherent Optical Nonlinearities of a Macroscopic Quantum System"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
@@ -34,6 +25,15 @@
     display: arXiV:2409.13101 (2024)
   highlight: 0
 
+- title: "Probing Complex Decoherence Processes in Materials for Quantum Applications"
+  image: 2025_APL.png
+  description: In this perspective article, we introduce the principles of 2-D terahertz spectroscopy with a heuristic classical anharmonic oscillator model that provides intuition for the various nonlinearities observed in multidimensional spectra. We then outline the unique physics of quantum materials revealed by the specific nonlinearities. An outlook for multidimensional probes of non-equilibrium phases of quantum materials is also provided.
+  authors: A Liu, MW Day, and ST Cundiff
+  link:
+    url: https://doi.org/10.1063/5.0275665
+    display: Applied Physics Letters 127, 100501 (2025)
+  highlight: 0
+  
 - title: "Unifying Measurement Schemes in 2-D Terahertz Spectroscopy"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
