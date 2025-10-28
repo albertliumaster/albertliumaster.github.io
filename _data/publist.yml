@@ -7,15 +7,6 @@
     display: arXiV:2509.23856 (2025)
   highlight: 0
   
-- title: "Nonlocal Coherent Optical Nonlinearities of a Macroscopic Quantum System"
-  image: 2019_JPCLGraphic.png
-  description: Placeholder.
-  authors: A Liu, EW Martin, J Hu, Z Wang, H Deng, and ST Cundiff
-  link:
-    url: https://arxiv.org/abs/2504.13830
-    display: arXiV:2504.13830 (2025)
-  highlight: 0
-  
 - title: "Two-dimensional spectroscopy of bosonic collective excitations in disordered many-body systems"
   image: 2019_JPCLGraphic.png
   description: Placeholder.
@@ -24,6 +15,15 @@
     url: https://arxiv.org/abs/2501.16856
     display: arXiV:2501.16856 (2025)
   highlight: 0
+
+- title: "Nonlocal Coherent Optical Nonlinearities of a Macroscopic Quantum System"
+  image: 2025_PRLGraphic.png
+  description: Placeholder.
+  authors: A Liu, EW Martin, J Hu, Z Wang, H Deng, and ST Cundiff
+  link:
+    url: https://doi.org/10.1103/jrds-3tyk
+    display: Physical Review Letters 135, 183801 (2025)
+  highlight: 1
   
 - title: "Sparse Optimization of Two-Dimensional Terahertz Spectroscopy"
   image: 2019_JPCLGraphic.png
