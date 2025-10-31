@@ -6,8 +6,8 @@ sitemap: false
 permalink: /rdjgroup/
 ---
 
-# Placeholder
+# Quantum Optical Probes of Quantum Matter 
 
 <p align="justify">
-Placeholder
+The NOoQM lab is hosting a sub-group developing quantum optical spectroscopies led by Filippo Glerean, Raymond Davis Jr. Fellow.
 </p>
