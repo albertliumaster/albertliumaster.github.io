@@ -1,6 +1,6 @@
 - name: Albert Liu
   photo: Albert_Liu_1.jpg
-  info: Research Staff III, started Sep 2023
+  info: NOoQM Group Leader, started Sep 2023
   email: aliu1@bnl.gov
   number_educ: 5
   education1: B.S.E. Electrical Engineering @ <a href="www.umich.edu">UMich</a>
@@ -8,3 +8,13 @@
   education3: M.S.E. Electrical Engineering @ <a href="www.umich.edu">UMich</a>
   education4: Ph.D. Applied Physics @ <a href="www.umich.edu">UMich</a> with <a href="https://sites.lsa.umich.edu/cundiff-lab/">Steve Cundiff</a>
   education5: Postdoc @ MPI for the Structure and Dynamics of Matter with <a href = "https://qcmd.mpsd.mpg.de/">Andrea Cavalleri</a>
+
+- name: Filippo Glerean
+  photo: Filippo.jpg
+  info: Raymond Davis Jr. Fellow, QOM Sub-Group Leader, started Oct 2025
+  email: fglerean1@bnl.gov
+  number_educ: 4
+  education1: B.S. Physics @ University of Trieste
+  education2: M.S. Condensed Matter Physics @ University of Trieste
+  education3: Ph.D. Physics @ University of Trieste with <a href="https://www.fkp.physik.nat.fau.eu/research-fausti/">Daniele Fausti</a>
+  education4: Postdoc @ Harvard with <a href = "https://mitrano.physics.harvard.edu/">Matteo Mitrano</a>
