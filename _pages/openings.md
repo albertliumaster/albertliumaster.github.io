@@ -16,7 +16,7 @@ We are seeking outstanding candidates for an experimental postdoctoral position 
 
 Starting date is flexible, and applications will be reviewed until positions are filled.
 
-[Flyer]({{ site.baseurl }}/downloads/Postdoc_Ad_Oct_2023.pdf)
+[Flyer]({{ site.baseurl }}/downloads/Postdoctoral Position Ad (2025).pdf)
 
 ### Fellowships
 
