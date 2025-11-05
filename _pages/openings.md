@@ -33,7 +33,9 @@ For more information please contact Filippo Glerean (<a href="mailto:fglerean1@b
 
 ### Fellowships
 
-We especially welcome postdocs with fellowships, and would be happy to support you in applying both before and after joining our group. 
+We especially welcome graduate students and postdocs with fellowships, and would be happy to support you in applying both before and after joining our group. 
+
+We encourage eligible graduate students to join our group for internships through the <a href="https://science.osti.gov/wdts/scgsr">Office of Science Graduate Student Research (SCGSR) Program</a>.
 
 International applicants in particular can consider the following funding opportunities:
 <ul>
@@ -45,3 +47,4 @@ International applicants in particular can consider the following funding opport
 </ul>
 
 Outstanding candidates can also apply for the [Goldhaber fellowship](https://www.bnl.gov/hr/goldhaber/) at BNL.
+
