@@ -20,12 +20,12 @@ Our group explores nonlinear light–matter interactions from a <b>statistical q
 
 
 <p align="justify">
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/2019_JPCLGraphic.png){: style="width: 240px; float: right; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/QOSGroup_1.png){: style="width: 240px; float: left; margin: 0px 10px"}
 **Technique: Ultrafast quantum-optical tomography.** We study the light-driven quantum optical response with ultrafast resolution by combining pump-probe experiments with quantum state tomography. In detail, our approach [<a href="https://www.nature.com/articles/s41377-025-01789-y">Light. Sci. Appl. 14, 115 (2025)</a>] utilizes an homodyne detection scheme with phase-randomized ultrashort laser pulses, overcoming the limitations of phase-stable interferometers and enabling a robust and efficient reconstruction of the full statistical distribution of the photon number of weak probes containing multiple photons per pulse. 
 </p>
 
 <p align="justify">
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/MDTS.png){: style="width: 240px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/QOSGroup_2.png){: style="width: 240px; float: right; margin: 0px  10px"}
 **Theme: Spectroscopy of quantum fluctuations in light-driven materials.** Understanding the role of low-energy magnetic and electronic quantum fluctuations is crucial for engineering a plethora of quantum phenomena in solid-state systems. Entangled fluctuations rule quantum critical transitions, prevent magnetic order in quantum spin liquids and quantum paraelectricity and act as precursors for non-equilibrium phases, like light-induced superconductivity and ferroelectricity. We aim to reveal the dynamics of quantum fluctuations in complex materials by analyzing how the probe statistics are modified by the interaction with the sample excitations and determine methods to manipulate them on-demand with intense optical pulses.
 </p>
 
