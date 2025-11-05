@@ -20,7 +20,7 @@ Our group explores nonlinear light–matter interactions from a <b>statistical q
 
 
 <p align="justify">
-![]({{ site.url }}{{ site.baseurl }}/images/respic/QOSGroup_1.png){: style="width: 300px; float: left; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/QOSGroup_1.png){: style="width: 290px; float: left; margin: 0px 10px"}
 **Technique: Ultrafast quantum-optical tomography.** We study the light-driven quantum optical response with ultrafast resolution by combining pump-probe experiments with quantum state tomography. In detail, our approach [<a href="https://www.nature.com/articles/s41377-025-01789-y">Light. Sci. Appl. 14, 115 (2025)</a>] utilizes an homodyne detection scheme with phase-randomized ultrashort laser pulses, overcoming the limitations of phase-stable interferometers and enabling a robust and efficient reconstruction of the full statistical distribution of the photon number of weak probes containing multiple photons per pulse. 
 </p>
 
