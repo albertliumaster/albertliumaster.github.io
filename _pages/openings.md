@@ -16,7 +16,7 @@ We are seeking outstanding candidates for an experimental postdoctoral position 
 
 Starting date is flexible, and applications will be reviewed until positions are filled. 
 
-For more information please contact Albert Liu (<a href="mailto:fglerean1@bnl.gov">aliu1@bnl.gov</a>).
+For more information please contact Albert Liu (<a href="mailto:fglerean1@bnl.gov">aliu1@bnl.gov</a>), or visit the <a href="https://bnl.wd1.myworkdayjobs.com/Externa/job/Upton-NY/Nonlinear-Optical-Spectroscopies-of-Quantum-Materials_JR102158-1">application link</a>.
 
 [Flyer]({{ site.baseurl }}/downloads/Postdoctoral Position Ad (2025).pdf)
 
