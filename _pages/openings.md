@@ -21,7 +21,7 @@ For more information please contact Albert Liu (<a href="mailto:fglerean1@bnl.go
 [Flyer]({{ site.baseurl }}/downloads/Postdoctoral Position Ad (2025).pdf)
 
 
-**Postdoc in Ultrafast Quantum Optical Spectroscopies**
+(<code style="color : red">Filled</code>) **Postdoc in Ultrafast Quantum Optical Spectroscopies**
 
 <p align="justify">
 The project will focus on developing and employing Ultrafast Quantum Optical Tomography, an innovative technique that combines pump-probe spectroscopy with quantum state reconstruction. This approach will enable the exploration of quantum statistics in light-matter interactions between quantum materials and few-photon, sub-picosecond pulses. The successful candidate will apply this method to study quantum fluctuations of matter and the generation of quantum light, in both equilibrium and light-driven systems.
