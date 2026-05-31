@@ -18,3 +18,24 @@
   education2: M.S. Condensed Matter Physics @ University of Trieste
   education3: Ph.D. Physics @ University of Trieste with <a href="https://www.fkp.physik.nat.fau.eu/research-fausti/">Daniele Fausti</a>
   education4: Postdoc @ Harvard with <a href = "https://mitrano.physics.harvard.edu/">Matteo Mitrano</a>
+
+- name: Yuan Zhang
+  photo: Yuan.jpg
+  info: Postdoctoral Fellow, started May 2026
+  email: yzhang20@bnl.gov
+  number_educ: 1
+  education1: Ph.D. Physics @ University of California, San Diego with <a href="https://averittlab.ucsd.edu">Rick Averitt</a>
+  
+- name: Shahzad Alam
+  photo: Shahzad.jpg
+  info: Postdoctoral Fellow (QOM Sub-Group), started March 2026
+  email: salam2@bnl.gov
+  number_educ: 1
+  education1: Ph.D. Physics @ University of Minnesota, Twin Cities with <a href="https://frontiera.chem.umn.edu">Renee Frontiera</a>
+  
+- name: Tianran Li
+  photo: Tianran.jpg
+  info: Postdoctoral Fellow, started June 2026
+  email:
+  number_educ: 1
+  education1: Ph.D. Physics @ University of Indiana, Bloomington with <a href="https://dragnearesearch.org">Bogdan Dragnea</a>
