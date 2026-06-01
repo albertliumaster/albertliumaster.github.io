@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for motivated postdoctoral researchers to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ <!-- **We are  looking for motivated postdoctoral researchers to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 
 Jump to [staff](#staff) and [alumni](#alumni).
