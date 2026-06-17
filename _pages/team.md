@@ -13,7 +13,7 @@ permalink: /team/
 
 Jump to [staff](#staff) and [alumni](#alumni).
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_6-16-26.HEIC){: style="width: 100%; float: middle; margin: 10px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_6-16-26.png){: style="width: 100%; float: middle; margin: 10px  10px"}
 
 ## Staff
 {% assign number_printed = 0 %}
