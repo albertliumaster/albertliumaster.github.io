@@ -10,7 +10,6 @@ permalink: /gallery/
 
 
 <p align="justify">
-**June 2026 - Group Photo**\
-  
+**June 2026 - Group Photo**<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_6-16-26.png){: style="width: 60%; float: middle; margin: 10px  10px"}
 </p>
