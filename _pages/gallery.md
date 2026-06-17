@@ -15,6 +15,6 @@ permalink: /gallery/
 </p>
 
 <p align="justify">
-**May 2026 - Group Dinner in Flushing, Queens**<br>
+**May 2026 - Group Dinner in Flushing!**<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/GroupDinner_5-04-26.jpeg){: style="width: 60%; float: middle; margin: 10px  10px"}
 </p>
