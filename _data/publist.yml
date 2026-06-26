@@ -9,7 +9,7 @@
   
 - title: "Two-dimensional spectroscopy of bosonic collective excitations in disordered many-body systems"
   image: 2019_JPCLGraphic.png
-  description: Placeholder.
+  description: Locality is a standard assumption for light-matter interactions. While violating locality is possible, experimental realizations of nonlocal optical responses largely derive from classical transport processes such as heat flow or exciton diffusion. Here, we used two-dimensional optical spectroscopy to study the optical nonlinearities of quantum-confined exciton-polaritons in a semiconductor microcavity, and observed nonlinear optical responses that are both nonlocal and coherent. This nonlocal response has a distinct quantum origin and derives from coupling between confined exciton-polariton wavefunctions that exist in different regions of space.
   authors: AG Salvador, I Morera, MH Michael, PE Dolgirev, D Pavicevic, A Liu, A Cavalleri, and E Demler
   link:
     url: https://arxiv.org/abs/2501.16856
