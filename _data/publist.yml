@@ -18,7 +18,7 @@
 
 - title: "Nonlocal Coherent Optical Nonlinearities of a Macroscopic Quantum System"
   image: 2025_PRLGraphic.png
-  description: Locality is a standard assumption for light-matter interactions, and experimental realizations of nonlocal optical responses largely derive from classical transport processes such as heat flow or exciton diffusion. Here, we used two-dimensional optical spectroscopy to study quantum-confined exciton-polaritons in a semiconductor microcavity and observed nonlinear optical responses that are both nonlocal and coherent. This nonlocal response has a distinct quantum origin and derives from coupling between confined exciton-polariton wavefunctions that exist in different regions of space.
+  description: Locality is a standard assumption for light-matter interactions, and experimental realizations of nonlocal optical responses largely derive from classical transport processes. Here, we used two-dimensional optical spectroscopy to study quantum-confined exciton-polaritons in a semiconductor microcavity and observed nonlinear optical responses that are both nonlocal and coherent. This nonlocal response has a distinct quantum origin and derives from coupling between confined exciton-polariton wavefunctions that exist in different regions of space.
   authors: A Liu, EW Martin, J Hu, Z Wang, H Deng, and ST Cundiff
   link:
     url: https://doi.org/10.1103/jrds-3tyk
