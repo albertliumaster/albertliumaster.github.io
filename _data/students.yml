@@ -7,3 +7,10 @@
 #  education2:
 #  education3:
 #  education4:
+
+- name: Chris Hennighausen
+  photo: Chris.jpeg
+  info: SCGSR Student, started September 2026
+  email: crh235@cornell.edu
+  number_educ: 1
+  education1: Ph.D. Student @ Cornell University with <a href="https://disa.aep.cornell.edu/">Ankit Disa</a>
