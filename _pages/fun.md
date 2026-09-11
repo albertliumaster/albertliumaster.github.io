@@ -15,4 +15,5 @@ The following is a collection of papers that are amusing for varied reasons:
 3. <a target="_blank" href="https://doi.org/10.1007/BF01488952">Retracted: Naturwissenschaft und reale Außenwelt</a>
 4. <a target="_blank" href="https://doi.org/10.1016/j.surfin.2024.104081">Retracted: The three-dimensional porous mesh structure of Cu-based metal-organic-framework - Aramid cellulose separator enhances the electrochemical performance of lithium metal anode batteries</a>
 5. <a target="_blank" href="https://doi.org/10.1177/1932296815626726">Polytetrafluoroethylene Ingestion as a Way to Increase Food Volume and Hence Satiety Without Increasing Calorie Content</a>
-6. <a target="_blank" href="https://doi.org/10.1177/1932296815626726">Retracted: Cellular functions of spermatogonial stem cells in relation to JAK/STAT signaling pathway</a>
+6. <a target="_blank" href="https://doi.org/10.3389/fcell.2023.1339390">Retracted: Cellular functions of spermatogonial stem cells in relation to JAK/STAT signaling pathway</a>
+7. <a target="_blank" href="https://doi.org/10.1103/PhysRev.82.554.2">The Ratio of Proton and Electron Masses</a>
