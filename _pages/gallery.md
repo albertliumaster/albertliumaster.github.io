@@ -8,6 +8,10 @@ permalink: /gallery/
 
 # Gallery
 
+<p align="justify">
+**September 2026 - Group Lunch @ McDonalds**<br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/McDonalds_9-18-26.jpeg){: style="width: 60%; float: middle; margin: 10px  0px"}
+</p>
 
 <p align="justify">
 **August 2026 - Mac & Cheese x The Room**<br>
