@@ -18,3 +18,4 @@ The following is a collection of papers that are amusing for varied reasons:
 6. <a target="_blank" href="https://doi.org/10.3389/fcell.2023.1339390">Retracted: Cellular functions of spermatogonial stem cells in relation to JAK/STAT signaling pathway</a>
 7. <a target="_blank" href="https://doi.org/10.1103/PhysRev.82.554.2">The Ratio of Proton and Electron Masses</a>
 8. <a target="_blank" href="https://doi.org/10.1038/s41598-024-62539-5">DNA as a perfect quantum computer based on the quantum physics principles</a>
+9. <a target="_blank" href="https://doi.org/10.1038/s41598-024-62539-5">A Black Hole at the Center of Earth Plays the Role of the Biggest System of Telecommunication for Connecting DNAs, Dark DNAs and Molecules of Water on 4+N- Dimensional Manifold</a>
